@@ -1,6 +1,6 @@
 # MapReduce-DWH_Transaksi_Penjualan
 <b>Membuat Arsitektur Data Warehouse menggunakan Mpreduce (MRJob) untuk kebutuhan analisa transaksi penjualan</b>
-<p>
+
 Tujuan :
 - Mendapatkan informasi trend jumlah pelanggan yang membeli
 - Mendapatkan informasi trend jumlah transaksi yang terjadi
