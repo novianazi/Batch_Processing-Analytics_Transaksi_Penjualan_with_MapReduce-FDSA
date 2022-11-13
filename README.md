@@ -19,5 +19,5 @@ Output :
 - Sample Hasil Transform menggunakan MapReduce (File .csv) :
 ![image](https://user-images.githubusercontent.com/22631554/201491131-9d67af68-28e7-4326-9a2c-ca76d569d850.png)
 
-- Sample Visualisasi menggunakan Google Data Studio :
+- Sample Visualisasi menggunakan Google Data Studio - Source Data hasil transform MapReduce:
 ![Screenshot 2022-11-13 022749](https://user-images.githubusercontent.com/22631554/201491306-9f69efc5-ea42-456b-8205-95f9a34294f7.png)
