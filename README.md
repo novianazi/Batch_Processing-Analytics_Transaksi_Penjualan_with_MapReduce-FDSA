@@ -1,6 +1,11 @@
 # MapReduce-DWH_Transaksi_Penjualan
 <b>Membuat Arsitektur Data Warehouse menggunakan Mpreduce (MRJob) untuk kebutuhan analisa transaksi penjualan</b>
 <p>
+Tujuan :
+- Mendapatkan informasi trend jumlah pelanggan yang membeli
+- Mendapatkan informasi trend jumlah transaksi yang terjadi
+- Mendapatkan informasi trend jumlah barang yang terjual
+  
 Tools yang digunakan : </br>
 - Ubuntu 20.04.5 LTS (WSL) </br>
 - Python version 3.8.10</br>
@@ -8,10 +13,7 @@ Tools yang digunakan : </br>
 - Database PostgreSQL version 14.5</br>
 - Google Data Studio</br>
 
-Tujuan :
-- Mendapatkan informasi trend jumlah pelanggan yang membeli
-- Mendapatkan informasi trend jumlah transaksi yang terjadi
-- Mendapatkan informasi trend jumlah barang yang terjual
+
 
 ![Screenshot 2022-11-13 021928](https://user-images.githubusercontent.com/22631554/201491067-c50cff94-1f29-4f64-84ca-c87330355680.png)
 
